@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+.pytest_cache/
+
+# Kivy/Buildozer
+.buildozer/
+bin/
+*.apk
+*.aab
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# DeepSeek
+deepseek_config.json
+*.key
+*.secret
+
+# Backups
+*.bak
+*.bak_*
+*.old
+
+# TM backups
+dicionario_frases.json.bak_*
+
+# Temporários
+temp_*
+*.tmp
+
+# Logs
+*.log
